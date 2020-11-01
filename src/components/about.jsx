@@ -47,7 +47,17 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Some Tech </h3>
-                    <p>Nam et libero a tellus vulputate egestas. Morbi dignissim, mauris eget consectetur scelerisque, mi justo tincidunt nulla, id tempus massa tellus vel eros. Cras ex eros, ullamcorper ac porta sed, porta sit amet nunc. Pellentesque pellentesque euismod magna quis aliquet. Quisque placerat venenatis diam, vitae placerat augue mattis vel. Proin tincidunt orci felis, a vehicula metus pretium non. Aliquam erat volutpat. In luctus, dui scelerisque congue pretium, massa ligula vehicula ante, eu interdum odio mauris ac quam. Sed a laoreet justo, eget elementum nisl. Curabitur at porta arcu, sed aliquam mauris. Aenean ornare sapien quis ipsum ultricies egestas. Donec nec aliquam nisi, vitae elementum augue.</p>
+                    <p>Nam et libero a tellus vulputate egestas. Morbi dignissim, 
+                        mauris eget consectetur scelerisque, mi justo tincidunt nulla, 
+                        id tempus massa tellus vel eros. Cras ex eros, ullamcorper ac porta sed, 
+                        porta sit amet nunc. Pellentesque pellentesque euismod magna quis aliquet. 
+                        Quisque placerat venenatis diam, vitae placerat augue mattis vel. 
+                        Proin tincidunt orci felis, a vehicula metus pretium non. 
+                        Aliquam erat volutpat. In luctus, dui scelerisque congue pretium, 
+                        massa ligula vehicula ante, eu interdum odio mauris ac quam. 
+                        Sed a laoreet justo, eget elementum nisl. Curabitur at porta arcu, 
+                        sed aliquam mauris. Aenean ornare sapien quis ipsum ultricies egestas. 
+                        Donec nec aliquam nisi, vitae elementum augue.</p>
                 </div>
                 </div>
             </div>
@@ -58,7 +68,17 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Science</h3>
-                    <p>Nam et libero a tellus vulputate egestas. Morbi dignissim, mauris eget consectetur scelerisque, mi justo tincidunt nulla, id tempus massa tellus vel eros. Cras ex eros, ullamcorper ac porta sed, porta sit amet nunc. Pellentesque pellentesque euismod magna quis aliquet. Quisque placerat venenatis diam, vitae placerat augue mattis vel. Proin tincidunt orci felis, a vehicula metus pretium non. Aliquam erat volutpat. In luctus, dui scelerisque congue pretium, massa ligula vehicula ante, eu interdum odio mauris ac quam. Sed a laoreet justo, eget elementum nisl. Curabitur at porta arcu, sed aliquam mauris. Aenean ornare sapien quis ipsum ultricies egestas. Donec nec aliquam nisi, vitae elementum augue.</p>
+                    <p>Nam et libero a tellus vulputate egestas. Morbi dignissim, 
+                        mauris eget consectetur scelerisque, mi justo tincidunt nulla, 
+                        id tempus massa tellus vel eros. Cras ex eros, ullamcorper ac porta sed, 
+                        porta sit amet nunc. Pellentesque pellentesque euismod magna quis aliquet. 
+                        Quisque placerat venenatis diam, vitae placerat augue mattis vel. 
+                        Proin tincidunt orci felis, a vehicula metus pretium non. 
+                        Aliquam erat volutpat. In luctus, dui scelerisque congue pretium, 
+                        massa ligula vehicula ante, eu interdum odio mauris ac quam. 
+                        Sed a laoreet justo, eget elementum nisl. Curabitur at porta arcu, 
+                        sed aliquam mauris. Aenean ornare sapien quis ipsum ultricies egestas. 
+                        Donec nec aliquam nisi, vitae elementum augue.</p>
                 </div>
                 </div>
             </div>
@@ -69,7 +89,18 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Other Stuff</h3>
-                    <p>Nam et libero a tellus vulputate egestas. Morbi dignissim, mauris eget consectetur scelerisque, mi justo tincidunt nulla, id tempus massa tellus vel eros. Cras ex eros, ullamcorper ac porta sed, porta sit amet nunc. Pellentesque pellentesque euismod magna quis aliquet. Quisque placerat venenatis diam, vitae placerat augue mattis vel. Proin tincidunt orci felis, a vehicula metus pretium non. Aliquam erat volutpat. In luctus, dui scelerisque congue pretium, massa ligula vehicula ante, eu interdum odio mauris ac quam. Sed a laoreet justo, eget elementum nisl. Curabitur at porta arcu, sed aliquam mauris. Aenean ornare sapien quis ipsum ultricies egestas. Donec nec aliquam nisi, vitae elementum augue.</p>
+                    <p>Nam et libero a tellus vulputate egestas. Morbi dignissim, 
+                        mauris eget consectetur scelerisque, mi justo tincidunt nulla, 
+                        id tempus massa tellus vel eros. Cras ex eros, ullamcorper ac porta sed, 
+                        porta sit amet nunc. Pellentesque pellentesque euismod magna quis aliquet. 
+                        Quisque placerat venenatis diam, vitae placerat augue mattis vel. P
+                        roin tincidunt orci felis, a vehicula metus pretium non. 
+                        Aliquam erat volutpat. In luctus, 
+                        dui scelerisque congue pretium, massa ligula vehicula ante, 
+                        eu interdum odio mauris ac quam. Sed a laoreet justo, 
+                        eget elementum nisl. Curabitur at porta arcu, sed aliquam mauris. 
+                        Aenean ornare sapien quis ipsum ultricies egestas. Donec nec aliquam nisi, 
+                        vitae elementum augue.</p>
                 </div>
                 </div>
             </div>

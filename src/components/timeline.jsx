@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Just now <span>2017-present</span></h2>
-                        <p>YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES</p>
+                        <h2>Currently <span>2017-present</span></h2>
+                        <p>Currently with CapGemini</p>
                       </div>
                     </div>
                   </article>

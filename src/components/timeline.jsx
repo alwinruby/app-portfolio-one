@@ -45,7 +45,11 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>Education <span>Still ongoing</span></h2>
                         <p>
-                          <b>BSc (Hons) Chemistry and Medical Chemistry, Glasgow University (1997)</b>
+                          <b>BSc (Hons) Chemistry and Medical Chemistry, Glasgow University (1997)</b><br/><br/>
+                          <b>Postgraduate Diploma in Information Technology (Software & Systems), Glasgow University (1999)</b><br/><br/>
+                          <b>MSc Medical Science, Open University (2011)</b><br/><br/>
+                          <b>Certificate in Animal Behavior, Kellogg College Oxford University (2016)</b><br/><br/>
+                          <b>Introduction to Computer Science and Programming certificate, Massachusetts Institute of Technology(2017)</b><br/><br/>
                         </p> 
                       </div>
                     </div>

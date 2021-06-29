@@ -33,7 +33,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Before <span>2016</span></h2>
-                        <p>Nam et libero a tellus vulputate egestas. Morbi dignissim, mauris eget consectetur scelerisque, mi justo tincidunt nulla, id tempus massa tellus vel eros. Cras ex eros, ullamcorper ac porta sed, porta sit amet nunc. Pellentesque pellentesque euismod magna quis aliquet. Quisque placerat venenatis diam, vitae placerat augue mattis vel. Proin tincidunt orci felis, a vehicula metus pretium non. Aliquam erat volutpat. In luctus, dui scelerisque congue pretium, massa ligula vehicula ante, eu interdum odio mauris ac quam. Sed a laoreet justo, eget elementum nisl. Curabitur at porta arcu, sed aliquam mauris. Aenean ornare sapien quis ipsum ultricies egestas. Donec nec aliquam nisi, vitae elementum augue.</p>
+                        <p>Various IT positions</p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +43,14 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Education <span>OLD</span></h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor est ultricies sem sollicitudin auctor sed at lectus. Integer efficitur, nibh ac venenatis elementum, nisl massa tempus justo, in volutpat felis mi bibendum dolor. Fusce non orci eu mauris luctus ornare. Duis sem velit, aliquet sed faucibus quis, porta eget neque. Aenean eget semper nunc. Vivamus eget nibh sapien. Suspendisse malesuada lacus eget convallis porttitor. Pellentesque in nunc rhoncus nunc dignissim sodales et tincidunt ante. Nullam quis tempor neque. Nam eleifend quam et urna varius aliquam. Fusce porta justo id elementum feugiat. Praesent luctus nulla arcu, vitae elementum erat tempor at. Ut pretium neque sit amet ipsum tempus imperdiet. </p> 
+                        <h2>Education <span>Still ongoing</span></h2>
+                        <p>
+                          <b>BSc (Hons) Chemistry and Medical Chemistry, Glasgow University (1997)</b>
+                          <br><b>Postgraduate Diploma in Information Technology (Software & Systems), Glasgow University (1999)</b></br>
+                          <br><b>MSc Medical Science, Open University (2011)</b></br>
+                          <br><b>Certificate in Animal Behavior, Kellogg College Oxford University (2015/16</b></br>
+                          <br><b>Certificate Introduction to Computer Science and Programming, Massachusetts Institute of Technology(2017)</b></br>
+                        </p> 
                       </div>
                     </div>
                   </article>

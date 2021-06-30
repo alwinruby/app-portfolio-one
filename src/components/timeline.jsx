@@ -22,7 +22,9 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Currently <span>2017-present</span></h2>
-                        <p>Currently with CapGemini</p>
+                        <p>Currently with CapGemini<br/>
+                          Where I work as a DevOps Tester using Kubernetes and AWS technologies on Goverment projects<br/>
+                        </p>
                       </div>
                     </div>
                   </article>
@@ -33,7 +35,9 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Before <span>2016</span></h2>
-                        <p>Various IT positions</p>
+                        <p>Various IT positions<br/>
+                          Worked for small medium and large companies, from startups of less than twenty people to larg corporates of tens of thousands.<br/>
+                        </p>
                       </div>
                     </div>
                   </article>

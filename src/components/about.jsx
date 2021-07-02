@@ -47,7 +47,11 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Some Tech </h3>
-                    <p>A little something</p>
+                    <p>
+                        I first programmed in Java and have been coding on and off for 20 years.<br/>
+                        Also I've dabbled in .Net, Ruby, JavaScript and most Recently Python.<br/>
+                        A little bit of database and SQL knowledge never did me any harm<br/>
+                    </p>
                 </div>
                 </div>
             </div>
@@ -58,7 +62,13 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Science</h3>
-                    <p>Something Else</p>
+                    <p>
+                        I'm truly fascinated by this subject.  From reading the books:<br/>
+                        Weapons of Math Destruction - Cathy O'Neil<br/>
+                        Everybody lies - Seth Stephens-Davidowitz<br/>
+                        Big Data, Does size matter? - Timandra Harkness<br/><br/>
+                        Currently undertaking Andrew Ngs Machine Learning on Coursera<br/>
+                    </p>
                 </div>
                 </div>
             </div>
@@ -68,8 +78,15 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Other Information</h3>
-                    <p>Also this</p>
+                    <h3>Other</h3>
+                    <p>
+                        Very passionate about helping others with some tech.<br/>
+                        In the past, I've volunteered with:<br/>
+                        <a href="https://www.chatterbox.io/" target="_blank" rel="noopener noreferrer">Chatterbox</a><br/>
+                        Go Sweat (Now called <a href="https://www.hekahappy.com/" target="_blank" rel="noopener noreferrer">Heka</a>)<br/>
+                        Currently I volunteer at <a href="https://codeyourfuture.io/" target="_blank" rel="noopener noreferrer">Code Your Future</a> <br/>
+                        It is been an honour to help the wonderful students on their journey.
+                    </p>
                 </div>
                 </div>
             </div>

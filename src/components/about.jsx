@@ -13,16 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>Security Cleared with over fifteen years in Business Analysis, QA, and testing. 
-                        Coding is a passion of mine, I have started to code more vigorously to become a Developer. 
-                        A background in Science and Software Engineering has given me a great perspective on how to test 
-                        and hence the need for great clean test-driven code. 
-                        Eight plus year’s experience in Agile, from setting up agile as a Greenfield project 
-                        to acting as Scrum Master. Strong communication skills, alongside a passion for learning 
-                        and environment improvement.  Active in volunteering skills for not-for profit organisations, 
-                        along with continual education and qualifications.  
-                        Passionate about Web technologies in particular JavaScript Python Ruby 
-                        and Java swift for mobile applications </p>
+                    <p>A scientist with evolving skill, who likes to build and destroy and tell interesting sories</p>
                     <p></p>
                     </div>
                 </div>
